@@ -21,7 +21,7 @@ You need to create a Colab notebook starting from here - [_Notebook_4_starter_](
 ### Rubric:
 > *This assignment is worth 9 points. It will be graded using the following rubric. I strongly suggest evaluating your project using this rubric before turning it in. It consists of two criteria: 1) *writing, and 2) *code. The details of the rubrics are as follows:
 
-| Exercise #  | Points Awarded (out of 10)  | Notes |
+| Exercise #  | Points Awarded (out of 9)  | Notes |
 | --------- | ------------------- | --------- |
 | 1: Dataset Class creation                                        |    -/1.0    |            |
 | 2: Faster R-CNN fine-tuning                                      |    -/2.0    |            |
