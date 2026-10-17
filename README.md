@@ -12,7 +12,7 @@ You should use the following notebook for your experiments:
    - [_Notebook_4_starter_](https://github.com/alimoorreza/CS181-Fall26-Notebook-4/blob/main/cs181_notebook4_starter.ipynb).
    
 ## Expectations: ☑️
-You need to create a Colab notebook starting from here - [_Notebook_4_starter for Faster R-CNN_](https://github.com/alimoorreza/CS181-Fall26-Notebook-4/blob/main/cs181_notebook4_starter.ipynb). Add your code and results to document your experiment.
+You need to create a Colab notebook starting from here - [_Notebook_4_starter_](https://github.com/alimoorreza/CS181-Fall26-Notebook-4/blob/main/cs181_notebook4_starter.ipynb). Add your code and results to document your experiment.
 
 📉 📊 📈 💹 You also should include **textual visualization which will be produced automatically** during fine-tuning
 
